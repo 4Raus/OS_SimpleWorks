@@ -1,0 +1,4 @@
+﻿  3os.cpp
+C:\Users\ASUS\Desktop\UNI\СурГу\OperSys\3\3os\3os\3os.cpp(59,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ASUS\Desktop\UNI\СурГу\OperSys\3\3os\3os\3os.cpp(85,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  3os.vcxproj -> C:\Users\ASUS\Desktop\UNI\СурГу\OperSys\3\3os\x64\Debug\3os.exe

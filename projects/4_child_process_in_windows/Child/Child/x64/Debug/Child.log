@@ -1,0 +1,4 @@
+﻿  Child.cpp
+C:\Users\ASUS\Desktop\UNI\СурГу\OperSys\4\Child\Child\Child.cpp(43,43): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\ASUS\Desktop\UNI\СурГу\OperSys\4\Child\x64\Debug\Child.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Child.vcxproj -> C:\Users\ASUS\Desktop\UNI\СурГу\OperSys\4\Child\x64\Debug\Child.exe

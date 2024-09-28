@@ -1,0 +1,3 @@
+﻿  chat_server.cpp
+C:\Users\ASUS\Desktop\UNI\СурГу\OperSys\6\chat_server\chat_server\chat_server.cpp(41,97): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  chat_server.vcxproj -> C:\Users\ASUS\Desktop\UNI\СурГу\OperSys\6\chat_server\x64\Debug\chat_server.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0421\u0443\u0440\u0413\u0443\\OperSys\\6\\chat_server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E63A1D1-D9D0-4B02-962A-519066433C78}|chat_server\\chat_server.vcxproj|C:\\Users\\ASUS\\Desktop\\UNI\\\u0421\u0443\u0440\u0413\u0443\\OperSys\\6\\chat_server\\chat_server\\chat_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E63A1D1-D9D0-4B02-962A-519066433C78}|chat_server\\chat_server.vcxproj|solutionrelative:chat_server\\chat_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chat_server.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0421\u0443\u0440\u0413\u0443\\OperSys\\6\\chat_server\\chat_server\\chat_server.cpp",
+              "RelativeDocumentMoniker": "chat_server\\chat_server.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\UNI\\\u0421\u0443\u0440\u0413\u0443\\OperSys\\6\\chat_server\\chat_server\\chat_server.cpp",
+              "RelativeToolTip": "chat_server\\chat_server.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T20:43:21.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
